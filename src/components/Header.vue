@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>Header</h1>
+  <div class="has-text-centered has-background-light">
+    <h1 class="title has-text-info">Header</h1>
   </div>
 </template>
 

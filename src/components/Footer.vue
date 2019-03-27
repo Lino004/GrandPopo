@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>Footer</h1>
+  <div class="has-text-centered has-background-light">
+    <h1 class="title has-text-info">Footer</h1>
   </div>
 </template>
 
